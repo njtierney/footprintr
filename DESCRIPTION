@@ -1,0 +1,13 @@
+Package: footprintr
+Type: Package
+Title: Allows for graphically viewing csv data
+Version: 0.0.1
+Authors@R: person("Nicholas", "Tierney", email = "nicholas.tierney@gmail.com", role = c("aut", "cre"))
+Description: Currently not much more than viewing CSV data
+License: What license is it under?
+LazyData: TRUE
+Imports:
+    dplyr,
+    ggplot2,
+    tidyr
+RoxygenNote: 5.0.1
