@@ -7,12 +7,12 @@
 footprint(x)
 }
 \arguments{
-\item{x}{a dataframe}
+\item{x}{a list, a row, or a column.}
 }
 \description{
-footprint makes it more simple to do
+footprint very simply replaces the contents with the class of a given object, unless it is missing (coded as NA), in which case it leaves it as NA
 }
 \details{
-\code{footprint} does this thing
+\code{footprint} is a utility function for ggplot_footprint
 }
 

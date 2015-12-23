@@ -10,9 +10,9 @@ ggplot_footprint(x)
 \item{x}{a dataframe}
 }
 \description{
-ggplot_footprint makes it more simple to do
+ggplot_footprint assists in the exploratory visualisation process of data.
 }
 \details{
-\code{ggplot_footprint} does this thing
+\code{ggplot_footprint} Creates a ggplot plot of a dataframe, displaying missing data, and variable classes as different colours.
 }
 

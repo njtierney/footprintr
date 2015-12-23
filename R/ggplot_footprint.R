@@ -1,8 +1,8 @@
 #' ggplot_footprint
 #'
-#' \code{ggplot_footprint} does this thing
+#' \code{ggplot_footprint} Creates a ggplot plot of a dataframe, displaying missing data, and variable classes as different colours.
 #'
-#' @description ggplot_footprint makes it more simple to do
+#' @description ggplot_footprint assists in the exploratory visualisation process of data.
 #'
 #' @param x a dataframe
 #'
